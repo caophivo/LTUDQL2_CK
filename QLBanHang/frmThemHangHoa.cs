@@ -19,6 +19,8 @@ namespace QLBanHang
             InitializeComponent();
         }
 
+        #region thêm kho hàng
+
         private void comboBoxEdit3_ButtonClick(object sender, ButtonPressedEventArgs e)
         {
             if(e.Button.Kind == ButtonPredefines.Plus)
@@ -32,7 +34,9 @@ namespace QLBanHang
                 //code
             }
         }
+        #endregion
 
+        #region thêm nhóm hàng hóa
         private void comboBoxEdit4_ButtonClick(object sender, ButtonPressedEventArgs e)
         {
             if (e.Button.Kind == ButtonPredefines.Plus)
@@ -46,12 +50,14 @@ namespace QLBanHang
                 //code
             }
         }
+        #endregion
 
         private void simpleButton3_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        #region thêm đơn vị tính
         private void comboBoxEdit_DonVi_ButtonClick(object sender, ButtonPressedEventArgs e)
         {
             if (e.Button.Kind == ButtonPredefines.Plus)
@@ -65,7 +71,9 @@ namespace QLBanHang
                 //code
             }
         }
+        #endregion
 
+        #region thêm nhà cung cấp
         private void comboBoxEdit_ThemNhaCungCap_ButtonClick(object sender, ButtonPressedEventArgs e)
         {
             if (e.Button.Kind == ButtonPredefines.Plus)
@@ -79,5 +87,6 @@ namespace QLBanHang
                 //code
             }
         }
+        #endregion
     }
 }

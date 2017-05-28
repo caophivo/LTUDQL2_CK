@@ -395,7 +395,7 @@
             this.groupControl1.Controls.Add(this.navBarControl1);
             this.groupControl1.Location = new System.Drawing.Point(12, 12);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(158, 411);
+            this.groupControl1.Size = new System.Drawing.Size(157, 411);
             this.groupControl1.TabIndex = 1;
             this.groupControl1.Text = "Chức Năng";
             // 
@@ -416,13 +416,13 @@
             this.navBarItem_ThemHangHoa,
             this.navBarItem_ThemKhachHang,
             this.navBarItem_ThemKho});
-            this.navBarControl1.Location = new System.Drawing.Point(2, 20);
+            this.navBarControl1.Location = new System.Drawing.Point(2, 21);
             this.navBarControl1.LookAndFeel.SkinMaskColor = System.Drawing.Color.White;
             this.navBarControl1.LookAndFeel.SkinMaskColor2 = System.Drawing.Color.White;
             this.navBarControl1.LookAndFeel.UseDefaultLookAndFeel = false;
             this.navBarControl1.Name = "navBarControl1";
-            this.navBarControl1.OptionsNavPane.ExpandedWidth = 154;
-            this.navBarControl1.Size = new System.Drawing.Size(154, 389);
+            this.navBarControl1.OptionsNavPane.ExpandedWidth = 153;
+            this.navBarControl1.Size = new System.Drawing.Size(153, 388);
             this.navBarControl1.TabIndex = 5;
             this.navBarControl1.Text = "navBarControl1";
             // 
@@ -514,7 +514,7 @@
             this.layoutControlItem1.Control = this.groupControl1;
             this.layoutControlItem1.Location = new System.Drawing.Point(0, 0);
             this.layoutControlItem1.Name = "layoutControlItem1";
-            this.layoutControlItem1.Size = new System.Drawing.Size(162, 415);
+            this.layoutControlItem1.Size = new System.Drawing.Size(161, 415);
             this.layoutControlItem1.TextSize = new System.Drawing.Size(0, 0);
             this.layoutControlItem1.TextVisible = false;
             // 
@@ -523,15 +523,15 @@
             this.emptySpaceItem1.AllowHotTrack = false;
             this.emptySpaceItem1.Location = new System.Drawing.Point(0, 415);
             this.emptySpaceItem1.Name = "emptySpaceItem1";
-            this.emptySpaceItem1.Size = new System.Drawing.Size(162, 73);
+            this.emptySpaceItem1.Size = new System.Drawing.Size(161, 73);
             this.emptySpaceItem1.TextSize = new System.Drawing.Size(0, 0);
             // 
             // splitterItem1
             // 
             this.splitterItem1.AllowHotTrack = true;
-            this.splitterItem1.Location = new System.Drawing.Point(162, 0);
+            this.splitterItem1.Location = new System.Drawing.Point(161, 0);
             this.splitterItem1.Name = "splitterItem1";
-            this.splitterItem1.Size = new System.Drawing.Size(5, 488);
+            this.splitterItem1.Size = new System.Drawing.Size(6, 488);
             // 
             // layoutControlItem2
             // 
@@ -581,13 +581,13 @@
             this.navBarItem9,
             this.navBarItem10,
             this.navBarItem11});
-            this.navBarControl2.Location = new System.Drawing.Point(2, 20);
+            this.navBarControl2.Location = new System.Drawing.Point(2, 21);
             this.navBarControl2.LookAndFeel.SkinMaskColor = System.Drawing.Color.White;
             this.navBarControl2.LookAndFeel.SkinMaskColor2 = System.Drawing.Color.White;
             this.navBarControl2.LookAndFeel.UseDefaultLookAndFeel = false;
             this.navBarControl2.Name = "navBarControl2";
             this.navBarControl2.OptionsNavPane.ExpandedWidth = 153;
-            this.navBarControl2.Size = new System.Drawing.Size(153, 369);
+            this.navBarControl2.Size = new System.Drawing.Size(153, 368);
             this.navBarControl2.TabIndex = 5;
             this.navBarControl2.Text = "navBarControl1";
             // 
@@ -669,9 +669,9 @@
             // 
             this.panel2.Controls.Add(this.layoutControl3);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(2, 52);
+            this.panel2.Location = new System.Drawing.Point(2, 53);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1070, -34);
+            this.panel2.Size = new System.Drawing.Size(1070, -35);
             this.panel2.TabIndex = 3;
             // 
             // layoutControl3
@@ -702,7 +702,7 @@
             this.layoutControl3.Name = "layoutControl3";
             this.layoutControl3.OptionsCustomizationForm.DesignTimeCustomizationFormPositionAndSize = new System.Drawing.Rectangle(1011, 158, 250, 350);
             this.layoutControl3.Root = this.layoutControlGroup3;
-            this.layoutControl3.Size = new System.Drawing.Size(1070, -34);
+            this.layoutControl3.Size = new System.Drawing.Size(1070, -35);
             this.layoutControl3.TabIndex = 0;
             this.layoutControl3.Text = "layoutControl2";
             // 
@@ -1139,7 +1139,7 @@
             this.panelControl2.Controls.Add(this.dropDownButton1);
             this.panelControl2.Controls.Add(this.simpleButton1);
             this.panelControl2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panelControl2.Location = new System.Drawing.Point(2, 20);
+            this.panelControl2.Location = new System.Drawing.Point(2, 21);
             this.panelControl2.Name = "panelControl2";
             this.panelControl2.Size = new System.Drawing.Size(1070, 32);
             this.panelControl2.TabIndex = 0;
@@ -1231,9 +1231,9 @@
             // emptySpaceItem5
             // 
             this.emptySpaceItem5.AllowHotTrack = false;
-            this.emptySpaceItem5.Location = new System.Drawing.Point(166, 326);
+            this.emptySpaceItem5.Location = new System.Drawing.Point(167, 326);
             this.emptySpaceItem5.Name = "emptySpaceItem2";
-            this.emptySpaceItem5.Size = new System.Drawing.Size(912, 138);
+            this.emptySpaceItem5.Size = new System.Drawing.Size(911, 138);
             this.emptySpaceItem5.TextSize = new System.Drawing.Size(0, 0);
             // 
             // splitterItem2
@@ -1241,22 +1241,22 @@
             this.splitterItem2.AllowHotTrack = true;
             this.splitterItem2.Location = new System.Drawing.Point(161, 0);
             this.splitterItem2.Name = "splitterItem1";
-            this.splitterItem2.Size = new System.Drawing.Size(5, 464);
+            this.splitterItem2.Size = new System.Drawing.Size(6, 464);
             // 
             // emptySpaceItem6
             // 
             this.emptySpaceItem6.AllowHotTrack = false;
-            this.emptySpaceItem6.Location = new System.Drawing.Point(166, 0);
+            this.emptySpaceItem6.Location = new System.Drawing.Point(167, 0);
             this.emptySpaceItem6.Name = "emptySpaceItem5";
-            this.emptySpaceItem6.Size = new System.Drawing.Size(912, 170);
+            this.emptySpaceItem6.Size = new System.Drawing.Size(911, 170);
             this.emptySpaceItem6.TextSize = new System.Drawing.Size(0, 0);
             // 
             // emptySpaceItem9
             // 
             this.emptySpaceItem9.AllowHotTrack = false;
-            this.emptySpaceItem9.Location = new System.Drawing.Point(166, 170);
+            this.emptySpaceItem9.Location = new System.Drawing.Point(167, 170);
             this.emptySpaceItem9.Name = "emptySpaceItem6";
-            this.emptySpaceItem9.Size = new System.Drawing.Size(912, 156);
+            this.emptySpaceItem9.Size = new System.Drawing.Size(911, 156);
             this.emptySpaceItem9.TextSize = new System.Drawing.Size(0, 0);
             // 
             // layoutControlItem44
@@ -1307,13 +1307,13 @@
             this.navBarItem15,
             this.navBarItem16,
             this.navBarItem17});
-            this.navBarControl3.Location = new System.Drawing.Point(2, 20);
+            this.navBarControl3.Location = new System.Drawing.Point(2, 21);
             this.navBarControl3.LookAndFeel.SkinMaskColor = System.Drawing.Color.White;
             this.navBarControl3.LookAndFeel.SkinMaskColor2 = System.Drawing.Color.White;
             this.navBarControl3.LookAndFeel.UseDefaultLookAndFeel = false;
             this.navBarControl3.Name = "navBarControl3";
             this.navBarControl3.OptionsNavPane.ExpandedWidth = 153;
-            this.navBarControl3.Size = new System.Drawing.Size(153, 369);
+            this.navBarControl3.Size = new System.Drawing.Size(153, 368);
             this.navBarControl3.TabIndex = 5;
             this.navBarControl3.Text = "navBarControl1";
             // 
@@ -1395,9 +1395,9 @@
             // 
             this.panel1.Controls.Add(this.layoutControl5);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(2, 52);
+            this.panel1.Location = new System.Drawing.Point(2, 53);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1070, -34);
+            this.panel1.Size = new System.Drawing.Size(1070, -35);
             this.panel1.TabIndex = 3;
             // 
             // layoutControl5
@@ -1428,7 +1428,7 @@
             this.layoutControl5.Name = "layoutControl5";
             this.layoutControl5.OptionsCustomizationForm.DesignTimeCustomizationFormPositionAndSize = new System.Drawing.Rectangle(1011, 158, 250, 350);
             this.layoutControl5.Root = this.layoutControlGroup4;
-            this.layoutControl5.Size = new System.Drawing.Size(1070, -34);
+            this.layoutControl5.Size = new System.Drawing.Size(1070, -35);
             this.layoutControl5.TabIndex = 0;
             this.layoutControl5.Text = "layoutControl2";
             // 
@@ -1865,7 +1865,7 @@
             this.panelControl3.Controls.Add(this.dropDownButton2);
             this.panelControl3.Controls.Add(this.simpleButton7);
             this.panelControl3.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panelControl3.Location = new System.Drawing.Point(2, 20);
+            this.panelControl3.Location = new System.Drawing.Point(2, 21);
             this.panelControl3.Name = "panelControl3";
             this.panelControl3.Size = new System.Drawing.Size(1070, 32);
             this.panelControl3.TabIndex = 0;
@@ -1957,9 +1957,9 @@
             // emptySpaceItem12
             // 
             this.emptySpaceItem12.AllowHotTrack = false;
-            this.emptySpaceItem12.Location = new System.Drawing.Point(166, 326);
+            this.emptySpaceItem12.Location = new System.Drawing.Point(167, 326);
             this.emptySpaceItem12.Name = "emptySpaceItem2";
-            this.emptySpaceItem12.Size = new System.Drawing.Size(912, 138);
+            this.emptySpaceItem12.Size = new System.Drawing.Size(911, 138);
             this.emptySpaceItem12.TextSize = new System.Drawing.Size(0, 0);
             // 
             // splitterItem3
@@ -1967,22 +1967,22 @@
             this.splitterItem3.AllowHotTrack = true;
             this.splitterItem3.Location = new System.Drawing.Point(161, 0);
             this.splitterItem3.Name = "splitterItem1";
-            this.splitterItem3.Size = new System.Drawing.Size(5, 464);
+            this.splitterItem3.Size = new System.Drawing.Size(6, 464);
             // 
             // emptySpaceItem13
             // 
             this.emptySpaceItem13.AllowHotTrack = false;
-            this.emptySpaceItem13.Location = new System.Drawing.Point(166, 0);
+            this.emptySpaceItem13.Location = new System.Drawing.Point(167, 0);
             this.emptySpaceItem13.Name = "emptySpaceItem5";
-            this.emptySpaceItem13.Size = new System.Drawing.Size(912, 170);
+            this.emptySpaceItem13.Size = new System.Drawing.Size(911, 170);
             this.emptySpaceItem13.TextSize = new System.Drawing.Size(0, 0);
             // 
             // emptySpaceItem14
             // 
             this.emptySpaceItem14.AllowHotTrack = false;
-            this.emptySpaceItem14.Location = new System.Drawing.Point(166, 170);
+            this.emptySpaceItem14.Location = new System.Drawing.Point(167, 170);
             this.emptySpaceItem14.Name = "emptySpaceItem6";
-            this.emptySpaceItem14.Size = new System.Drawing.Size(912, 156);
+            this.emptySpaceItem14.Size = new System.Drawing.Size(911, 156);
             this.emptySpaceItem14.TextSize = new System.Drawing.Size(0, 0);
             // 
             // layoutControlItem48

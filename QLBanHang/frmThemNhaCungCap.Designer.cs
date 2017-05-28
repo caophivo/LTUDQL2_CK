@@ -201,10 +201,10 @@
             this.layoutControl2.Controls.Add(this.textEdit2);
             this.layoutControl2.Controls.Add(this.textEdit1);
             this.layoutControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.layoutControl2.Location = new System.Drawing.Point(2, 20);
+            this.layoutControl2.Location = new System.Drawing.Point(2, 21);
             this.layoutControl2.Name = "layoutControl2";
             this.layoutControl2.Root = this.layoutControlGroup2;
-            this.layoutControl2.Size = new System.Drawing.Size(637, 265);
+            this.layoutControl2.Size = new System.Drawing.Size(637, 264);
             this.layoutControl2.TabIndex = 0;
             this.layoutControl2.Text = "layoutControl2";
             // 
@@ -378,7 +378,7 @@
             this.layoutControlItem18});
             this.layoutControlGroup2.Location = new System.Drawing.Point(0, 0);
             this.layoutControlGroup2.Name = "layoutControlGroup2";
-            this.layoutControlGroup2.Size = new System.Drawing.Size(637, 265);
+            this.layoutControlGroup2.Size = new System.Drawing.Size(637, 264);
             this.layoutControlGroup2.TextVisible = false;
             // 
             // layoutControlItem2
@@ -485,7 +485,7 @@
             this.layoutControlItem13.Control = this.textEdit9;
             this.layoutControlItem13.Location = new System.Drawing.Point(0, 216);
             this.layoutControlItem13.Name = "layoutControlItem13";
-            this.layoutControlItem13.Size = new System.Drawing.Size(308, 29);
+            this.layoutControlItem13.Size = new System.Drawing.Size(308, 28);
             this.layoutControlItem13.Text = "Người Liên Hệ";
             this.layoutControlItem13.TextSize = new System.Drawing.Size(66, 13);
             // 
@@ -530,7 +530,7 @@
             this.layoutControlItem18.Control = this.textEdit13;
             this.layoutControlItem18.Location = new System.Drawing.Point(308, 192);
             this.layoutControlItem18.Name = "layoutControlItem18";
-            this.layoutControlItem18.Size = new System.Drawing.Size(309, 53);
+            this.layoutControlItem18.Size = new System.Drawing.Size(309, 52);
             this.layoutControlItem18.Text = "Chức Vụ";
             this.layoutControlItem18.TextSize = new System.Drawing.Size(66, 13);
             // 
@@ -600,6 +600,7 @@
             this.ClientSize = new System.Drawing.Size(665, 337);
             this.Controls.Add(this.layoutControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
+            this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmThemNhaCungCap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

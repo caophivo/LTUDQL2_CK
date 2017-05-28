@@ -123,5 +123,115 @@ namespace QLBanHang
             frm_TraTien.MdiParent = this;
             frm_TraTien.Show();
         }
+
+        frmKhuVuc frm_KhuVuc = new frmKhuVuc();
+        private void barButtonItem_KhuVuc_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_KhuVuc.IsDisposed == true)
+            {
+                frm_KhuVuc = new frmKhuVuc();
+            }
+            frm_KhuVuc.MdiParent = this;
+            frm_KhuVuc.Show();
+        }
+
+        frmKhachHang frm_KhachHang = new frmKhachHang();
+        private void barButtonItem_KhachHang_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_KhachHang.IsDisposed == true)
+            {
+                frm_KhachHang = new frmKhachHang();
+            }
+            frm_KhachHang.MdiParent = this;
+            frm_KhachHang.Show();
+        }
+
+        frmNhaCungCap frm_NhaCungCap = new frmNhaCungCap();
+        private void barButtonItem_NhaCungCap_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_NhaCungCap.IsDisposed == true)
+            {
+                frm_NhaCungCap = new frmNhaCungCap();
+            }
+            frm_NhaCungCap.MdiParent = this;
+            frm_NhaCungCap.Show();
+        }
+
+        frmKhoHang frm_KhoHang = new frmKhoHang();
+        private void barButtonItem_KhoHang_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_KhoHang.IsDisposed == true)
+            {
+                frm_KhoHang = new frmKhoHang();
+            }
+            frm_KhoHang.MdiParent = this;
+            frm_KhoHang.Show();
+        }
+
+        frmDonViTinh frm_DVT = new frmDonViTinh();
+        private void barButtonItem_DonViTinh_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_DVT.IsDisposed == true)
+            {
+                frm_DVT = new frmDonViTinh();
+            }
+            frm_DVT.MdiParent = this;
+            frm_DVT.Show();
+        }
+
+        frmNhomHang frm_NhomHang = new frmNhomHang();
+        private void barButtonItem_NhomHang_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_NhomHang.IsDisposed == true)
+            {
+                frm_NhomHang = new frmNhomHang();
+            }
+            frm_NhomHang.MdiParent = this;
+            frm_NhomHang.Show();
+        }
+
+        frmHangHoa frm_HangHoa = new frmHangHoa();
+        private void barButtonItem_HangHoa_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_HangHoa.IsDisposed == true)
+            {
+                frm_HangHoa = new frmHangHoa();
+            }
+            frm_HangHoa.MdiParent = this;
+            frm_HangHoa.Show();
+        }
+
+        frmTyGia frm_TyGia = new frmTyGia();
+        private void barButtonItem_TyGia_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_TyGia.IsDisposed == true)
+            {
+                frm_TyGia = new frmTyGia();
+            }
+            frm_TyGia.MdiParent = this;
+            frm_TyGia.Show();
+        }
+
+        frmBoPhan frm_BoPhan = new frmBoPhan();
+        private void barButtonItem_BoPhan_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_BoPhan.IsDisposed == true)
+            {
+                frm_BoPhan = new frmBoPhan();
+            }
+            frm_BoPhan.MdiParent = this;
+            frm_BoPhan.Show();
+        }
+
+        frmNhanVien frm_NhanVien = new frmNhanVien();
+        private void barButtonItem_NhanVien_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            if (frm_NhanVien.IsDisposed == true)
+            {
+                frm_NhanVien = new frmNhanVien();
+            }
+            frm_NhanVien.MdiParent = this;
+            frm_NhanVien.Show();
+        }
     }
 }
